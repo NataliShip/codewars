@@ -1,4 +1,4 @@
 # Сodewars
 Solutions to Codewars kata
 
-<img src="https://www.codewars.com/users/NataliShip/badges/large">
+<a href="https://www.codewars.com/users/NataliShip"><img src="https://www.codewars.com/users/NataliShip/badges/large"></a>
